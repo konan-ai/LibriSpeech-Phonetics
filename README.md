@@ -1,6 +1,6 @@
 # LibriSpeech-Phonetics
 
-train-clean-360
+### train-clean-360
 
   waveform: https://cmu.box.com/s/b9ww3xjcfvn4frr6uj8i73rz21ohf4z1
 
@@ -10,7 +10,7 @@ train-clean-360
   
   phonetic: https://cmu.box.com/s/j0lt4bnk3oour2vo75hs2wkqfud0qja2
   
-train-clean-100
+### train-clean-100
 
   waveform: https://cmu.box.com/s/gedbtpdp4dw2tpmiqc1pi9xyems147vi
   
@@ -21,7 +21,7 @@ train-clean-100
   phonetic: https://cmu.box.com/s/jbp9nqcrzvyjr74x5dg1v2ju9anerxi4
   
   
-dev-clean
+### dev-clean
 
   waveform: https://cmu.box.com/s/u1acpkxfw9rtpw5k091gzdk6dvm0izil
   
@@ -32,7 +32,7 @@ dev-clean
   phonetic: https://cmu.box.com/s/xc0m8k9yn5yxs54nmqd10pn7w3t82k89
   
   
-test-clean
+### test-clean
 
   waveform: https://cmu.box.com/s/067jr86szovd9v1idkd54dty4nm3z7yr
   
