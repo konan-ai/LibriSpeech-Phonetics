@@ -1,5 +1,7 @@
 # LibriSpeech-Phonetics
 
+The LibriSpeech-Phonetics repository is a rich collection of multi-modal data subsets, which includes waveform (wav files), acoustic (egemaps), phonetic (phonetic alignments), and alphabetic (textual transcripts) data types. These subsets are organized into train-clean, dev-clean, and test-clean sections.
+
 ### train-clean-360
 
   - waveform: https://cmu.box.com/s/b9ww3xjcfvn4frr6uj8i73rz21ohf4z1
@@ -26,4 +28,10 @@
 ### test-clean
 
   - waveform: https://cmu.box.com/s/067jr86szovd9v1idkd54dty4nm3z7yr
-  - acoustic: https://cmu.box.com/s/7179fg6z0x82urd0qz
+  - acoustic: https://cmu.box.com/s/7179fg6z0x82urd0qzfwob7kmze95a0f
+  - phonetic: https://cmu.box.com/s/f2ward9mp6wjcl25osghv0aoplowg8qx
+  - alphabetic: https://cmu.box.com/s/011mmc8fa61g7jicbg606kdepfxleo4y
+
+### Usage
+
+This resource is publicly available for use in research and development. It provides a versatile tool for benchmarking and developing novel methods for speech processing tasks. Please ensure to cite this repository appropriately in any resulting publications.
